@@ -1,4 +1,4 @@
-site_name: Reloaded MkDocs Theme
+site_name: SewerHash
 site_url: https://github.com/Sewer56/sewerhash-rs
 
 repo_name: Sewer56/sewerhash-rs
@@ -49,5 +49,4 @@ plugins:
 nav:
   - Home: index.md
   - Contributing: contributing.md
-  - License: Reloaded/Pages/license.md
   - How to Document: Reloaded/Pages/contributing.md
